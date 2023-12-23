@@ -1,0 +1,6 @@
+  up = 10
+  down = 20
+  height = 5
+  square_centimeter = (up+down) * height / 2
+
+print(str(square_centimeter)+"cm²")
